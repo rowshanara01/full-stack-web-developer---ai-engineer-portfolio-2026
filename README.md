@@ -123,7 +123,7 @@ full-stack-web-developer---ai-engineer-portfolio/
 bun run build
 ```
 
-## 🔐 Environment Variables
+## 🔐 Environment Variables ##
 
 Copy `.env.example` to `.env` and set your own values. Never commit your `.env` file to GitHub.
 
