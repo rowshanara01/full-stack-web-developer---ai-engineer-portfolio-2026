@@ -8,7 +8,7 @@ Personal portfolio website of **Rowshanara Akhter (Robia)**, a Full Stack Web De
 ![Vite](https://img.shields.io/badge/Vite-646cff?logo=vite&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-000000?logo=vercel)
 
-🔗 **Live Site:** [your-portfolio-link.vercel.app](https://your-portfolio-link.vercel.app)
+
 
 ## 👋 About Me
 
