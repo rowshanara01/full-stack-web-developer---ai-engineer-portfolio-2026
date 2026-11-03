@@ -82,7 +82,7 @@ full-stack-web-developer---ai-engineer-portfolio/
 
 - [Bun](https://bun.sh/) (or [Node.js](https://nodejs.org/) v18+ with npm)
 
-### Steps
+## Steps ##
 
 1. Clone the repository
 
