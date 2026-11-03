@@ -139,7 +139,7 @@ I am open to freelance projects and remote opportunities.
 - 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
 - 🐙 GitHub: [@rowshanara01](https://github.com/rowshanara01)
 
-## 📄 License
+## 📄 License ##
 
 This project is open source and available under the [MIT License](LICENSE).
 
