@@ -78,7 +78,7 @@ full-stack-web-developer---ai-engineer-portfolio/
 
 ## ⚙️ Run Locally ##
 
-### Prerequisites
+## Prerequisites ##
 
 - [Bun](https://bun.sh/) (or [Node.js](https://nodejs.org/) v18+ with npm)
 
