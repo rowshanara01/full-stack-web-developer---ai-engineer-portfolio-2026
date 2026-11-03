@@ -10,7 +10,7 @@ Personal portfolio website of **Rowshanara Akhter (Robia)**, a Full Stack Web De
 
 
 
-## 👋 About Me
+## 👋 About Me ##
 
 I am a freelance Full Stack Web Developer who works remotely with clients to design, build and launch fast, reliable and user-friendly web applications. I combine solid web development skills with AI engineering to build smart, modern products, from clean front-end interfaces and secure back-end APIs to payment integrations and AI-powered features.
 
