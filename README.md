@@ -60,7 +60,7 @@ Git, GitHub, VS Code
 - **Bun** – package manager
 - **Vercel** – hosting and deployment
 
-## 📁 Project Structure ##
+#### 📁 Project Structure ####
 
 ```
 full-stack-web-developer---ai-engineer-portfolio/
