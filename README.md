@@ -116,7 +116,7 @@ full-stack-web-developer---ai-engineer-portfolio/
 
 5. Open the address shown in the terminal (usually `http://localhost:5173`)
 
-####Build for production ####
+#### Build for production ####
 
 ```bash
 bun run build
@@ -130,7 +130,7 @@ Copy `.env.example` to `.env` and set your own values. Never commit your `.env` 
 
 This portfolio is deployed on **Vercel**. The `vercel.json` file holds the deployment settings, and every push to the `main` branch triggers an automatic deployment.
 
-## 📬 Contact ##
+#### 📬 Contact ####
 
 I am open to freelance projects and remote opportunities.
 
