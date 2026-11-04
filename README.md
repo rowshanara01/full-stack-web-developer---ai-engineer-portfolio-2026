@@ -1,4 +1,3 @@
-
 #### Rowshanara Akhter | Full Stack Web Developer & AI Engineer ####
 
 Personal portfolio website of **Rowshanara Akhter (Robia)**, a Full Stack Web Developer and AI Engineer from Bangladesh with around five years of experience building web applications for clients around the world.
@@ -78,7 +77,7 @@ full-stack-web-developer---ai-engineer-portfolio/
 
 #### ⚙️ Run Locally ####
 
-## Prerequisites ##
+#### Prerequisites ####
 
 - [Bun](https://bun.sh/) (or [Node.js](https://nodejs.org/) v18+ with npm)
 
