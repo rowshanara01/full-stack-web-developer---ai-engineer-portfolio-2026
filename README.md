@@ -135,8 +135,8 @@ This portfolio is deployed on **Vercel**. The `vercel.json` file holds the deplo
 I am open to freelance projects and remote opportunities.
 
 - 📧 Email: your-email@example.com
-- 💼 LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
-- 🐙 GitHub: [@rowshanara01](https://github.com/rowshanara01)
+- #### LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+- #### GitHub: [@rowshanara01](https://github.com/rowshanara01)
 
 #### 📄 License ####
 
